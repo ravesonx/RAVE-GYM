@@ -1,0 +1,4 @@
+export const Config = {
+    GEMINI_API_URL: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent',
+    GEMINI_API_KEY: 'AIzaSyBHHx1nmHvCH5EgaKbpq0Bn-MXtBRMQfXw',
+};
